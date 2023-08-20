@@ -1,0 +1,97 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+
+
+/* Login page */
+.logo{
+  border-radius: 50%;
+}
+
+/* In detailView */
+.postColor{
+  margin-top: 10px;
+  background-color: #EAECEE;
+  /* padding: 20px; */
+  border-radius: 8px;
+}
+.btns{
+  margin-left: 10px !important;
+  margin-top: 5px;
+}
+.auth{
+  background-color: #FDFEFE;
+  padding: 2px;
+  border-radius: 8px;
+  margin: 5px !important;
+}
+.descrip{
+  /* background-color: azure; */
+  padding: 5px;
+  margin-left: 10px !important;
+  text-align: left;
+}
+.dp{
+  width: 5px;
+  height: 5px;
+
+}
+
+/* Comments */
+.postBtn{
+  margin-right: 10px;
+}
+
+/* posts */
+.postDiv{
+  margin-top: 15px;
+}
+
+/* category */
+.category{
+  margin-right: 10px;
+  margin-top: 10px;
+  background-color: #ebe9e9;
+  border-radius: 7px;
+}
+.image_css{
+  min-height: 200px !important;
+  min-width: 200px !important;
+}
+
+/* update */
+.title{
+  text-align: center;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+/*  */
+.bkg{
+  background-size: cover;
+  min-height: 100vh;
+}
+
+.center{
+  align-content: center;
+  align-items: center;
+  justify-items: center;
+  margin-top: 10px;
+}
+
+.bann{
+  max-height: 600px;
+  margin-top: 80px;
+}
